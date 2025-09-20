@@ -22,13 +22,9 @@
 	<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://overhoren.ivenboxem.nl/v3/wachtwoord_vergeten.php</loc>
-	<lastmod>2025-09-20T21:03:22+01:00</lastmod>
-	<priority>0.8</priority>
-</url>
-<url>
 	<loc>https://overhoren.ivenboxem.nl/v3/register.php</loc>
 	<lastmod>2025-09-20T21:03:22+01:00</lastmod>
 	<priority>0.8</priority>
 </url>
+
 </urlset>
